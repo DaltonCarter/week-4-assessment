@@ -1,0 +1,25 @@
+#complimentButton {
+    background-color: aqua;
+    color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 15%;
+}
+
+#fortune {
+    background-color:  lightcoral;
+    height: 100px;
+    width: 100px;
+    border-radius: 15%;
+}
+
+#post {
+    background-color:  lawngreen;
+    color: black;
+    border-radius: 20%;
+}
+
+button {
+    color: white;
+    background-color: green;
+}
